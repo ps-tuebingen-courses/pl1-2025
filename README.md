@@ -10,6 +10,6 @@ Material for course Programmiersprachen 1 (SS 2025) - Universität Tübingen
 ## Lecture Notes
 Lecture notes are available [here](https://ps-tuebingen-courses.github.io/pl1-lecture-notes/).
 
-## Scala 
+## Scala
 For the exercises and code examples in the lecture we will use the [Scala](https://www.scala-lang.org/) language.
 Please install Scala and make sure you have Scala 3 (not Scala 2).
