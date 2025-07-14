@@ -124,10 +124,10 @@ assert(
 // 1. ... der möglicherweise zuletzt ausgeführte Funktionsaufruf
 //    in einer Funktion zur Laufzeit.
 
-// 2. ... `(AddressV(1), Map(1 -> NumV(42)))` sein.
-
-// 3. Ein Monadentransformer kann häufig verwendet werden,
+// 2. Ein Monadentransformer kann häufig verwendet werden,
 //    um Monaden miteinander zu kombinieren.
 
-// 4. Jedes Programm, welches unter call-by-value terminiert,
+// 3. Jedes Programm, welches unter call-by-value terminiert,
 //    terminiert auch unter call-by-need.
+
+// 4. ... `(AddressV(1), Map(1 -> NumV(42)))` sein.
